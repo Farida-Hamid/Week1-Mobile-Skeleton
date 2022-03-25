@@ -5,3 +5,13 @@ header {
   justify-content: space-between;
   display: flex;
 }
+
+header #my-logo {
+  text-decoration: none;
+  font-size: 20px;
+  color: #6070ff;
+}
+  
+body {
+  font-family: 'Poppins', sans-serif;
+}
